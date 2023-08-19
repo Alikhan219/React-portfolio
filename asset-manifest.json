@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.243d7e66.css",
+    "main.js": "/React-portfolio/static/js/main.1de630c9.js",
+    "static/js/787.389cf84b.chunk.js": "/React-portfolio/static/js/787.389cf84b.chunk.js",
+    "static/media/soft.jpg": "/React-portfolio/static/media/soft.f0dc87ff1f58bda9abef.jpg",
+    "static/media/web.jpg": "/React-portfolio/static/media/web.4b0b04ad6441e91c0deb.jpg",
+    "static/media/Digital.jpg": "/React-portfolio/static/media/Digital.f4e0ec37cc4bb7766e9a.jpg",
+    "static/media/Andriod.jpg": "/React-portfolio/static/media/Andriod.504c63e517d2a5ffcaee.jpg",
+    "static/media/3.jpg": "/React-portfolio/static/media/3.40344163c2e8c09dabbe.jpg",
+    "static/media/pexels-torsten-dettlaff-193004.jpg": "/React-portfolio/static/media/pexels-torsten-dettlaff-193004.59921f17562e2a4cbc0a.jpg",
+    "static/media/Market.jpg": "/React-portfolio/static/media/Market.6da82119e14e33983d4e.jpg",
+    "static/media/PngItem_1127587.png": "/React-portfolio/static/media/PngItem_1127587.6bee84e3323f18653849.png",
+    "static/media/my2.png": "/React-portfolio/static/media/my2.c0846bb73936e0dcbec2.png",
+    "static/media/Daco_4364523.png": "/React-portfolio/static/media/Daco_4364523.c7fcc82dd8308c2edd57.png",
+    "index.html": "/React-portfolio/index.html",
+    "main.243d7e66.css.map": "/React-portfolio/static/css/main.243d7e66.css.map",
+    "main.1de630c9.js.map": "/React-portfolio/static/js/main.1de630c9.js.map",
+    "787.389cf84b.chunk.js.map": "/React-portfolio/static/js/787.389cf84b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243d7e66.css",
+    "static/js/main.1de630c9.js"
+  ]
+}
